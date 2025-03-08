@@ -1,4 +1,4 @@
-# st4r.github.io
+# st4r.github.io - ST4RGIRL's personal github page!
 Welcome to my website 
 
 ## About me
