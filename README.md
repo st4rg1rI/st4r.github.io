@@ -1,5 +1,7 @@
 # st4r.github.io - ST4RGIRL's personal github page!
-Welcome to my website 
++Welcome to my website.
+-This is my personal github page.
+
 
 ## About me
 I'm a 15 year old, transfem and bisexual girl who loves trainspotting.
