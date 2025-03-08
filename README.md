@@ -1,6 +1,6 @@
 # st4r.github.io - ST4RGIRL's personal github page!
-+Welcome to my website.
--This is my personal github page.
+Welcome to my website.
+This is my personal github page.
 
 
 ## About me
